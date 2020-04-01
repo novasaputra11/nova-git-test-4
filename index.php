@@ -7,6 +7,6 @@
 </head>
 <body>
     <H1>HALO DUNIA 2</H1>
-    <p>status</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero, sequi iste nam esse cum iusto ipsam perferendis inventore harum dolor ut vel quasi similique minus ea odio, praesentium repellat nihil!</p>
 </body>
 </html>
