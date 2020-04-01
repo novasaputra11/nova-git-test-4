@@ -8,5 +8,9 @@
 <body>
     <H1>HALO DUNIA 2</H1>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero, sequi iste nam esse cum iusto ipsam perferendis inventore harum dolor ut vel quasi similique minus ea odio, praesentium repellat nihil!</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
